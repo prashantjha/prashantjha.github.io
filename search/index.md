@@ -4,8 +4,8 @@ title: "Search"
 date: 
 modified:
 excerpt:
-image:
-  feature:
+<!-- image:
+  feature: -->
 search_omit: true
 sitemap: false
 ---

@@ -5,8 +5,8 @@ excerpt: "Instructions on how to install and customize the Jekyll theme So Simpl
 modified: 2016-09-12T08:42:37-04:00
 image:
   feature: so-simple-sample-image-6.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  credit: #WeGraphics
+  creditlink: #http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 General notes and suggestions for customizing **So Simple Theme**.
@@ -193,8 +193,8 @@ To add attribution to a feature image use the following YAML front matter on pos
 ```yaml
 image:
   feature: feature-image-filename.jpg
-  credit: Michael Rose #name of the person or site you want to credit
-  creditlink: http://mademistakes.com #url to their site or licensing
+  credit: #Michael Rose #name of the person or site you want to credit
+  creditlink: #http://mademistakes.com #url to their site or licensing
 ```
 
 ### Videos
